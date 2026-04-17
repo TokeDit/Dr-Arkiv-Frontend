@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e171ce36-0498-47d5-b8a6-09e0342dba40/resourceGroups/DrArkivTokeMarcus/providers/Microsoft.Web/sites/DrFrontendToke",
+    "appService.deploySubpath": "."
+}
